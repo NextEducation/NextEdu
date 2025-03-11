@@ -1,5 +1,4 @@
-# NextEducation
-Overview
+# Overview
 Welcome to the NextEducation project! This is a work-in-progress system designed to streamline administrative tasks for educational institutions across Australia. Our goal is to provide a user-friendly platform for managing student information, attendance, grades, schedules, and much more.
 
 # Features
